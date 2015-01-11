@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blue Sky Blog</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/</id>
+  <link href="http://blog.url.com/"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2014-06-28T15:30:00+00:00</updated>
+  <author>
+    <name>Aurélien Léger &amp; Guillaume Polaert</name>
+  </author>
+  <entry>
+    <title>Hello World!</title>
+    <link rel="alternate" href="http://blog.url.com/articles/2014/06/28/hello-world.html"/>
+    <id>http://blog.url.com/articles/2014/06/28/hello-world.html</id>
+    <published>2014-06-28T15:30:00+00:00</published>
+    <updated>2015-01-11T21:30:21+00:00</updated>
+    <author>
+      <name>Aurélien Léger</name>
+    </author>
+    <content type="html">&lt;p&gt;Nous voici à l'ouverture d'un blog de deux jeunes gens, Guillaume et Aurélien. L'un est ingénieur réseau et l'autre développeur web !&lt;br /&gt;
+Nous avons décidé d'ouvrir notre petit blog pour parler d'éléments sur lesquelles nous travaillons au quotidien ou autour duquel nous trouvons un intérêt.&lt;/p&gt;
+
+&lt;p&gt;Les sujets abordés seront assez vastes, avec pour thèmes :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;les &lt;strong&gt;langages de programmation&lt;/strong&gt; (PHP, JavaScript, Ruby, Java ou encore C/C++)&lt;/li&gt;
+  &lt;li&gt;des &lt;strong&gt;frameworks&lt;/strong&gt; autour de ces langages (Laravel, Ruby on Rails, Node.js)&lt;/li&gt;
+  &lt;li&gt;le support &lt;strong&gt;mobile&lt;/strong&gt; (Android principalement)&lt;/li&gt;
+  &lt;li&gt;le &lt;strong&gt;réseau&lt;/strong&gt; et la &lt;strong&gt;programmation réseau&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;le &lt;strong&gt;jeux vidéo&lt;/strong&gt; (conception, mécanismes, logiciels (ex : Unity3D, GameMaker), etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La plupart des sujets tourneront plus ou moins autour de la programmation, en dehors de quelques sujets plus divers comme la &lt;strong&gt;capture et le montage vidéo&lt;/strong&gt;, le &lt;strong&gt;dessin&lt;/strong&gt; ou encore des sujets autour de &lt;strong&gt;GNU/Linux&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le blog est hébergé sur &lt;a href="https://github.com/"&gt;GitHub&lt;/a&gt; (&lt;a href="https://github.com/krep/krep-blog"&gt;source&lt;/a&gt;) et fait avec ❤ via &lt;a href="http://middlemanapp.com/"&gt;Middleman&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
